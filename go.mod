@@ -1,4 +1,4 @@
-module hfile
+module github.com/ozkatz/hfile
 
 go 1.12
 
